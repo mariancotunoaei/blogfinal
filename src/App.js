@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React and AWS AppSync Marian
+          Hello from Amplify
+          Learn React and AWS AppSync with Marian :)
         </a>
       </header>
     </div>
